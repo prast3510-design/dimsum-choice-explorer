@@ -1,73 +1,17 @@
-# Welcome to your Lovable project
+# Halo, saya Ayub Dimas Prasetiyo 👋
 
-## Project info
+Lulusan Teknik Informatika Universitas Indraprasta PGRI (UNINDRA) yang berminat di bidang pengembangan web dan aplikasi. Terbiasa mengerjakan proyek secara individu maupun tim, dan senang mempelajari teknologi baru.
 
-**URL**: https://lovable.dev/projects/874ca981-7deb-42a2-92c0-5810e2034040
+## 🛠️ Skill
+- **Bahasa pemrograman:** Python, PHP, JavaScript, TypeScript, HTML/CSS
+- **Database:** MySQL
+- **Tools:** Git, GitHub
+- **Lainnya:** Logika Fuzzy (metode Sugeno), Microsoft Office
 
-## How can I edit this code?
+## 📂 Proyek Unggulan
+- **[fuzzy_sugeno_balita](https://github.com/prast3510-design/fuzzy_sugeno_balita)**: sistem untuk menentukan status gizi balita dengan metode fuzzy Sugeno
+- **[dimsum-choice-explorer](https://github.com/prast3510-design/dimsum-choice-explorer)**: aplikasi untuk membantu memilih menu dimsum
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/874ca981-7deb-42a2-92c0-5810e2034040) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/874ca981-7deb-42a2-92c0-5810e2034040) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 📫 Kontak
+- Email: prast3510@gmail.com
+- LinkedIn: [Ayub Dimas Prasetiyo](https://www.linkedin.com/in/ayub-dimas-prasetyo-b32213291)
